@@ -355,43 +355,43 @@ footer{
 .menuBtn{
     height: 30px;
     width: 30px;
-    background-image: url(/img/svg/menuDis.svg);
+    background-image: url(../img/svg/menuDis.svg);
     background-repeat: no-repeat;
     background-position: center;
     transition: 0.2s;
 }
 .menuBtnActive{
-    background-image: url(/img/svg/menuBtn.svg);
+    background-image: url(../img/svg/menuBtn.svg);
 }
 .eventsBtn{
     height: 30px;
     width: 30px;
-    background-image: url(/img/svg/eventsDis.svg);
+    background-image: url(../img/svg/eventsDis.svg);
     background-repeat: no-repeat;
     background-position: center;
 }
 .eventsBtnActive{
-    background-image: url(/img/svg/events.svg);
+    background-image: url(../img/svg/events.svg);
 }
 .searchBtn{
     height: 30px;
     width: 30px;
-    background-image: url(/img/svg/searchDis.svg);
+    background-image: url(../img/svg/searchDis.svg);
     background-repeat: no-repeat;
     background-position: center;
 }
 .searchBtnActive{
-    background-image: url(/img/svg/search.svg);
+    background-image: url(../img/svg/search.svg);
 }
 .profileBtn{
     height: 30px;
     width: 30px;
-    background-image: url(/img/svg/profileDis.svg);
+    background-image: url(../img/svg/profileDis.svg);
     background-repeat: no-repeat;
     background-position: center;
 }
 .profileBtnActive{
-    background-image: url(/img/svg/profile.svg);
+    background-image: url(../img/svg/profile.svg);
 }
 
 

@@ -408,6 +408,6 @@ footer{
 
  /* map */
  .map{
-     width: 320px;
+     width: 120vw;
      height: 100px/* calc(100vh - 48px) */;
  }
